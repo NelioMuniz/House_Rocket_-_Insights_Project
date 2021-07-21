@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+*.csv
+*.geojson
 
 # Distribution / packaging
 .Python
@@ -76,6 +78,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.idea
 
 # IPython
 profile_default/
